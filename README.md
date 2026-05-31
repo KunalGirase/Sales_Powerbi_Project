@@ -1,4 +1,5 @@
-# Sales_Powerbi_Project
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd23ce7b-a84b-4ac6-8f68-32b48e548800" /># Sales_Powerbi_Project
+
 
 Overview of the project 
  1. A Power BI sales analytics dashboard for a retail or e-commerce business, covering 2019–2020 performance across US regions.
